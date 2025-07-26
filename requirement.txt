@@ -1,0 +1,7 @@
+pyttsx3==2.90
+pypdf2==2.11.2
+googletrans==3.1.0a0
+pyaudio==0.2.13
+speechrecognition==3.10.0
+playsound==1.3.0
+gtts==2.2.4
