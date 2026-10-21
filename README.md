@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33763234/README.md)
+
 # Text-to-Speech Application
 
 A Python desktop application that converts written text into spoken audio. It provides a graphical interface for reading typed text or PDF content aloud, selecting a voice, adjusting speech speed, and saving generated speech as an MP3 file. The project also includes speech input and text translation functionality.
